@@ -10,3 +10,5 @@ demo_generator_model200.h5 - демо-модель генератора навч
 demo_discriminator_model200.h5 - демо-модель дискримінатора навчена на 200 епох
 
 demo_train.csv - файл показників loss для моделей генератора/дискримінатора на 200 епох
+
+<h2><a href='https://drive.google.com/drive/folders/1oOMjXDq6MGI3RQRxHYE4IV43onM2lshU?usp=sharing'>link download dataset (google drive)</a></h2>
